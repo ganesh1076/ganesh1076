@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ganesh1076
 - 👀 I’m interested in Astronomy and Astrophysics 
 - 🌱 I’m currently developing my programming skills
-#- 💞️ I’m looking to collaborate on 
 - 📫 you can reach me at ganesh.np@somaiya.edu 
 
 <!---
