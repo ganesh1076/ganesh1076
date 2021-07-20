@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganesh1076
+- 👋 Hi, I’m Ganesh Pawar
 - 👀 I’m interested in Astronomy and Astrophysics 
 - 🌱 I’m currently developing my programming skills
 - 📫 you can reach me at ganesh.np@somaiya.edu 
