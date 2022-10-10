@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganesh Pawar
 - 👀 I’m interested in Astronomy and Astrophysics 
-- 🌱 I’m currently developing my programming skills
+- 🌱 I’m a PhD student at Nicolaus Copernicus Astronomical Center, Poland.
 - 📫 you can reach me at ganesh.np [at] somaiya.edu 
 
 <!---
